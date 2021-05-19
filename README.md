@@ -1,6 +1,6 @@
 # My_work
 
-Hell0 everyone,
+Hello everyone,
 
 I'm Mayura. I have written a program to encode and decode data.
 This is the Python program for Caesar's encypher that can accept any input and shift value from user and perform the encypher operation. 
